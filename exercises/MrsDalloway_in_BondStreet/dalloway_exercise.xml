@@ -155,7 +155,7 @@
 	"id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240213155047535",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-02-13T21:50:47.535Z",
-	"dcterms:modified": "2024-02-13T21:50:47.535Z",
+	"dcterms:modified": "2024-02-13T21:59:06.683Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mandellc320",
 		"@type": [
@@ -187,7 +187,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q892187",
+		"@id": "http://viaf.org/viaf/315145937/",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -325,7 +325,7 @@
                confetti—pink and blue—for a joke. If you had lived with pictures (and it's the same
                with books and music) thought Clarissa, passing the Aeolian Hall, you can't be taken
                in by a joke.</p>
-            <p>The river of <placeName key="Bond Street" ref="http://www.wikidata.org/entity/Q892187" cert="high">Bond Street<precision match="@ref" precision="high"/></placeName> was clogged. There, like a Queen at a tournament, raised,
+            <p>The river of <placeName key="Bond Street (London, England)" ref="http://viaf.org/viaf/315145937/" cert="high">Bond Street<precision match="@ref" precision="high"/></placeName> was clogged. There, like a Queen at a tournament, raised,
                regal, was Lady Bexborough. She sat in her carriage, upright, alone, looking through
                her glasses. The white glove was loose at her wrist. She was in black, quite shabby,
                yet, thought Clarissa, how extraordinarily it tells, breeding, self-respect, never
