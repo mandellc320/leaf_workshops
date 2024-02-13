@@ -73,10 +73,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240213154024873",
+	"id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240213154253005",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-02-13T21:40:24.873Z",
-	"dcterms:modified": "2024-02-13T21:42:53.005Z",
+	"dcterms:created": "2024-02-13T21:42:53.005Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mandellc320",
 		"@type": [
@@ -87,7 +86,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240213154024873#Target",
+		"@id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240213154253005#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
@@ -101,7 +100,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240213154024873#Selector",
+			"@id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?person_annotation_20240213154253005#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/byline/persName"
 		}
@@ -152,10 +151,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240213155047535",
+	"id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240213155906683",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-02-13T21:50:47.535Z",
-	"dcterms:modified": "2024-02-13T21:59:06.683Z",
+	"dcterms:created": "2024-02-13T21:59:06.683Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/mandellc320",
 		"@type": [
@@ -166,7 +164,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240213155047535#Target",
+		"@id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240213155906683#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml",
@@ -180,7 +178,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240213155047535#Selector",
+			"@id": "https://raw.githubusercontent.com/mandellc320/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_exercise.xml?place_annotation_20240213155906683#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[18]/placeName"
 		}
